@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #f3f9fb;
+}
+
+.potfolio-row {
+  padding: 10px;
+}
+
+.portfolio-div {
+  margin: 20px 5px;
+  width: 45%;
+}
+
+.remove-portfolio {
+  background: #ffffff;
+  color: red;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 5px;
+}
+
+.stock-form input, .stock-form button {
+  margin: 5px 0;
+}
+
+.radio {
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+.remove-stock {
+  color: red;
+  background: white;
+  border-radius: 25px;
+  padding: 5px;
+  cursor: pointer;
+}
